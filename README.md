@@ -1,8 +1,3 @@
-# Diabetes-Detection-Project
-Sure! Here is a template for a README file for a GitHub repository for a Diabetes Detection Project:
-
----
-
 # Diabetes Detection Project
 
 ## Overview
